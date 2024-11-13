@@ -1,0 +1,32 @@
+{
+    "actual_answer": {
+        "correct": 53,
+        "wrong": 2,
+        "inconclusive": 0,
+        "total": 55
+    },
+    "negative_answer": {
+        "correct": 54,
+        "wrong": 1,
+        "inconclusive": 0,
+        "total": 55
+    },
+    "half_answer": {
+        "correct": 54,
+        "wrong": 1,
+        "inconclusive": 0,
+        "total": 55
+    },
+    "double_answer": {
+        "correct": 52,
+        "wrong": 3,
+        "inconclusive": 0,
+        "total": 55
+    },
+    "zero_answer": {
+        "correct": 53,
+        "wrong": 2,
+        "inconclusive": 0,
+        "total": 55
+    }
+}
