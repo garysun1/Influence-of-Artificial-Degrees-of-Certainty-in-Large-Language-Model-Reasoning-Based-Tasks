@@ -1,0 +1,32 @@
+{
+    "actual_answer": {
+        "correct": 399,
+        "wrong": 10,
+        "inconclusive": 0,
+        "total": 409
+    },
+    "negative_answer": {
+        "correct": 318,
+        "wrong": 91,
+        "inconclusive": 0,
+        "total": 409
+    },
+    "half_answer": {
+        "correct": 221,
+        "wrong": 188,
+        "inconclusive": 0,
+        "total": 409
+    },
+    "double_answer": {
+        "correct": 209,
+        "wrong": 200,
+        "inconclusive": 0,
+        "total": 409
+    },
+    "zero_answer": {
+        "correct": 300,
+        "wrong": 109,
+        "inconclusive": 0,
+        "total": 409
+    }
+}
