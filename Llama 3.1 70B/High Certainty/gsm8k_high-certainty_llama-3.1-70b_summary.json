@@ -1,32 +1,32 @@
 {
     "actual_answer": {
-        "correct": 399,
-        "wrong": 10,
+        "correct": 1219,
+        "wrong": 53,
         "inconclusive": 0,
-        "total": 409
+        "total": 1272
     },
     "negative_answer": {
-        "correct": 318,
-        "wrong": 91,
+        "correct": 985,
+        "wrong": 287,
         "inconclusive": 0,
-        "total": 409
+        "total": 1272
     },
     "half_answer": {
-        "correct": 221,
-        "wrong": 188,
+        "correct": 665,
+        "wrong": 607,
         "inconclusive": 0,
-        "total": 409
+        "total": 1272
     },
     "double_answer": {
-        "correct": 209,
-        "wrong": 200,
+        "correct": 641,
+        "wrong": 631,
         "inconclusive": 0,
-        "total": 409
+        "total": 1272
     },
     "zero_answer": {
-        "correct": 300,
-        "wrong": 109,
+        "correct": 928,
+        "wrong": 344,
         "inconclusive": 0,
-        "total": 409
+        "total": 1272
     }
 }
