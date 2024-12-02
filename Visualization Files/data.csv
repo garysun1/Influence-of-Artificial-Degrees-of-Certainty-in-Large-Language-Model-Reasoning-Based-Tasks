@@ -1,0 +1,33 @@
+Model,Certainty,Answer Type,Accuracy
+Mistral Large,Low Certainty,Actual Answer,93.93
+Mistral Large,Low Certainty,Negative Actual Answer,93.18
+Mistral Large,Low Certainty,Half Actual Answer,92.80
+Mistral Large,Low Certainty,Double Actual Answer,92.87
+Mistral Large,Low Certainty,Zero,91.66
+Mistral Large,Medium Certainty,Actual Answer,95.45
+Mistral Large,Medium Certainty,Negative Actual Answer,94.77
+Mistral Large,Medium Certainty,Half Actual Answer,94.77
+Mistral Large,Medium Certainty,Double Actual Answer,95.30
+Mistral Large,Medium Certainty,Zero,93.18
+Mistral Large,High Certainty,Actual Answer,96.36
+Mistral Large,High Certainty,Negative Actual Answer,94.54
+Mistral Large,High Certainty,Half Actual Answer,94.84
+Mistral Large,High Certainty,Double Actual Answer,94.92
+Mistral Large,High Certainty,Zero,91.36
+Mistral Large,Control,Actual Answer,90.07
+Llama 3.1 70B,Low Certainty,Actual Answer,91.58
+Llama 3.1 70B,Low Certainty,Negative Actual Answer,88.40
+Llama 3.1 70B,Low Certainty,Half Actual Answer,84.53
+Llama 3.1 70B,Low Certainty,Double Actual Answer,83.17
+Llama 3.1 70B,Low Certainty,Zero,86.20
+Llama 3.1 70B,Medium Certainty,Actual Answer,93.48
+Llama 3.1 70B,Medium Certainty,Negative Actual Answer,86.58
+Llama 3.1 70B,Medium Certainty,Half Actual Answer,76.27
+Llama 3.1 70B,Medium Certainty,Double Actual Answer,74.60
+Llama 3.1 70B,Medium Certainty,Zero,81.58
+Llama 3.1 70B,High Certainty,Actual Answer,95.98
+Llama 3.1 70B,High Certainty,Negative Actual Answer,77.48
+Llama 3.1 70B,High Certainty,Half Actual Answer,52.39
+Llama 3.1 70B,High Certainty,Double Actual Answer,50.27
+Llama 3.1 70B,High Certainty,Zero,72.86
+Llama 3.1 70B,Control,Actual Answer,81.80
