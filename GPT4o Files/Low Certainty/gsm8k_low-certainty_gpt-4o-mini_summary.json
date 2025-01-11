@@ -1,0 +1,32 @@
+{
+    "actual_answer": {
+        "correct": 1241,
+        "wrong": 78,
+        "inconclusive": 0,
+        "total": 1319
+    },
+    "negative_answer": {
+        "correct": 1224,
+        "wrong": 95,
+        "inconclusive": 0,
+        "total": 1319
+    },
+    "half_answer": {
+        "correct": 1232,
+        "wrong": 87,
+        "inconclusive": 0,
+        "total": 1319
+    },
+    "double_answer": {
+        "correct": 1228,
+        "wrong": 91,
+        "inconclusive": 0,
+        "total": 1319
+    },
+    "zero_answer": {
+        "correct": 1214,
+        "wrong": 105,
+        "inconclusive": 0,
+        "total": 1319
+    }
+}
