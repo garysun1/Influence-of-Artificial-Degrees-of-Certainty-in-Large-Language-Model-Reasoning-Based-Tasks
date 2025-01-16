@@ -1,0 +1,17 @@
+Certainty,Answer Type,Accuracy
+Low Certainty,Actual Answer,94.09
+Low Certainty,Negative Actual Answer,92.80
+Low Certainty,Half Actual Answer,93.40
+Low Certainty,Double Actual Answer,93.10
+Low Certainty,Zero,92.04
+Medium Certainty,Actual Answer,94.69
+Medium Certainty,Negative Actual Answer,93.48
+Medium Certainty,Half Actual Answer,94.39
+Medium Certainty,Double Actual Answer,93.93
+Medium Certainty,Zero,91.89
+High Certainty,Actual Answer,94.77
+High Certainty,Negative Actual Answer,93.18
+High Certainty,Half Actual Answer,93.78
+High Certainty,Double Actual Answer,93.78
+High Certainty,Zero,91.36
+Control,Actual Answer,90.98
